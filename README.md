@@ -25,3 +25,5 @@ I have a great deal of enthusiasm for coding and strong database administration 
 
 - **LinkedIn**: [LinkedIn Profile](LinkedIn_Profile_Link)
 - **Email**: danieljoshuasaberon@gmail.com
+
+  Feel free to connect and explore opportunities together!
