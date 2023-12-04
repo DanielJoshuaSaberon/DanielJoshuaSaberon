@@ -5,7 +5,7 @@ I have a great deal of enthusiasm for coding and strong database administration 
 ## Education
 
 - **BS Computer Science**
-  New Era University
+  [New Era University](https://www.neu.edu.ph/main/)
   2022-Present
 
 ## Certifications
