@@ -14,6 +14,8 @@ I have a great deal of enthusiasm for coding and strong database administration 
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=630D0D161C45A834B26617AB29705A28619CE89BF0DBF26FB3CA2AFBC19886A3)
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=918B879E093551F685E042EC331949BBE75AF18B05CAA0803364843F40BEA27A)
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/79c7a0a4a9ca4e3c9e9cfec73a11dec0)
+- [Responsive Web Design](https://www.freecodecamp.org/certification/fccca6b9958-d5c8-46a8-bcf5-31cdba4695c4/responsive-web-design)
+
 
 ## Skill Sets
 
