@@ -19,9 +19,9 @@ I have a great deal of enthusiasm for coding and strong database administration 
 
 ## Skill Sets
 
-- **Programming**: Java, Javascript
+- **Programming**: Java, HTMl, CSS, Javascript
 - **Databases**: IBM DB2 Cloud
-- **Tools**: Lucidchart, Jaspersoft Studio, Eclipse, HTML
+- **Tools**: Lucidchart, Jaspersoft Studio, Eclipse,
 
 ## Let's Connect!
 
