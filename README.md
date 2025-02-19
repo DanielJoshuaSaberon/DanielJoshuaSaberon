@@ -21,7 +21,7 @@ I have a great deal of enthusiasm for coding and strong database administration 
 
 - **Programming**: Java, HTMl, CSS, Javascript
 - **Databases**: IBM DB2 Cloud
-- **Tools**: Lucidchart, Jaspersoft Studio, Eclipse,
+- **Tools**: Lucidchart, Figma, Visual Studio Code, IntelliJ, Eclipse,
 
 ## Let's Connect!
 
