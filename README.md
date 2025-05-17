@@ -19,9 +19,9 @@ I have a great deal of enthusiasm for coding and strong database administration 
 
 ## Skill Sets
 
-- **Programming**: Java, HTMl, CSS, Javascript
+- **Programming**: Java, HTMl, CSS, Javascript, PHP, Python, Typescript
 - **Databases**: IBM DB2 Cloud
-- **Tools**: Lucidchart, Figma, Visual Studio Code, IntelliJ, Eclipse,
+- **Tools**: Lucidchart, Figma, Visual Studio Code, IntelliJ, Eclipse, Tableau, Pycharm, 
 
 ## Let's Connect!
 
